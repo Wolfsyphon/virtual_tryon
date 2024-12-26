@@ -23,7 +23,7 @@ Welcome to the Virtual Try-On Clothes project! This project allows users to uplo
 1. Clone the repository:
 
     bash
-    git clone https://github.com/your-username/virtual-try-on-clothes.git
+    git clone https://github.com/Aryanzs/virtual_tryon.git
     
 
 2. Install dependencies:
